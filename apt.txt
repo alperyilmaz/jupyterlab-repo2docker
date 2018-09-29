@@ -1,4 +1,4 @@
-texlive-base
+texlive-xetex
 wise
 ncbi-blast+
 clustalo
