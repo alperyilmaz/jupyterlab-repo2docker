@@ -1,0 +1,6 @@
+texlive-base
+wise
+ncbi-blast+
+clustalo
+clustalw
+emboss
