@@ -1,6 +1,0 @@
-texlive-xetex
-wise
-ncbi-blast+
-clustalo
-clustalw
-emboss
