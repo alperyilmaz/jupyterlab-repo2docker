@@ -1,6 +1,9 @@
 texlive-xetex
+texlive-fonts-recommended
 wise
 ncbi-blast+
 clustalo
 clustalw
 emboss
+inkscape
+dvipng
