@@ -1,5 +1,6 @@
 texlive-xetex
 texlive-fonts-recommended
+texlive-latex-recommended
 wise
 ncbi-blast+
 clustalo
