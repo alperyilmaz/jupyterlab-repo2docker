@@ -16,3 +16,5 @@ watermark
 # alperyilmaz/jupyterlab-bioinformatics
 biopython
 reportlab
+# misc
+jupyter_nbextensions_configurator
