@@ -17,4 +17,7 @@ watermark
 biopython
 reportlab
 # misc
+jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
+RISE
+ipywidgets
