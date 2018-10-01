@@ -2,3 +2,6 @@
 
 # Install a JupyterLab extension
 jupyter labextension install @ijmbarr/jupyterlab_spellchecker
+
+# enable nbextension configurator
+jupyter nbextensions_configurator enable --user
